@@ -1,0 +1,135 @@
+- id: us-space-and-rocket-center
+  name: U.S. Space & Rocket Center
+  tier: hero
+  category: aerospace
+  lat: 34.7112
+  lon: -86.6501
+  cameraPreset: rocket-center
+  notes: Anchor the western skyline with the museum campus and Saturn V cue.
+  style:
+    silhouette: rocket-campus
+    accent: warm-white
+- id: big-spring-park
+  name: Big Spring International Park
+  tier: hero
+  category: civic
+  lat: 34.7304
+  lon: -86.5861
+  cameraPreset: downtown-big-spring
+  notes: Water feature and bridge treatment should read even at wider zooms.
+  style:
+    silhouette: spring-park
+    accent: aqua
+- id: monte-sano
+  name: Monte Sano State Park
+  tier: hero
+  category: natural
+  lat: 34.7484
+  lon: -86.5186
+  cameraPreset: monte-sano
+  notes: Preserve ridge character and bluff edge above downtown and Jones Valley.
+  style:
+    silhouette: ridge
+    accent: forest
+- id: orion-amphitheater
+  name: Orion Amphitheater
+  tier: hero
+  category: entertainment
+  lat: 34.7444
+  lon: -86.6695
+  cameraPreset: midcity-orion
+  notes: Bowl geometry should be visible from the MidCity preset.
+  style:
+    silhouette: amphitheater
+    accent: sand
+- id: toyota-field
+  name: Toyota Field
+  tier: hero
+  category: sports
+  lat: 34.6618
+  lon: -86.7485
+  cameraPreset: town-madison
+  notes: Stadium bowl should anchor the Madison/Town Madison cluster.
+  style:
+    silhouette: stadium
+    accent: copper
+- id: huntsville-hospital
+  name: Huntsville Hospital
+  tier: district
+  category: medical
+  lat: 34.7209
+  lon: -86.5744
+  cameraPreset: medical-district
+  notes: Hospital district needs stronger vertical massing than surrounding neighborhoods.
+- id: uah
+  name: The University of Alabama in Huntsville
+  tier: district
+  category: education
+  lat: 34.7242
+  lon: -86.6403
+  cameraPreset: research-park
+  notes: Campus massing should bridge the hospital and research park zones.
+- id: alabama-am
+  name: Alabama A&M University
+  tier: district
+  category: education
+  lat: 34.7834
+  lon: -86.5688
+  cameraPreset: north-huntsville
+  notes: Northern campus landmark used to keep full-metro coverage honest.
+- id: cummings-research-park
+  name: Cummings Research Park
+  tier: district
+  category: research
+  lat: 34.7113
+  lon: -86.6817
+  cameraPreset: research-park
+  notes: Office district should read as a distinct employment cluster west of downtown.
+- id: bridge-street
+  name: Bridge Street Town Centre
+  tier: district
+  category: entertainment
+  lat: 34.7167
+  lon: -86.6738
+  cameraPreset: research-park
+  notes: Include lake edge and hotel massing cues.
+- id: campus-805
+  name: Campus 805
+  tier: district
+  category: entertainment
+  lat: 34.7213
+  lon: -86.607
+  cameraPreset: west-huntsville
+  notes: Adaptive reuse industrial block should read as a special cluster.
+- id: stovehouse
+  name: Stovehouse
+  tier: district
+  category: entertainment
+  lat: 34.726
+  lon: -86.6087
+  cameraPreset: west-huntsville
+  notes: Pair with Campus 805 to strengthen west Huntsville identity.
+- id: burritt-on-the-mountain
+  name: Burritt on the Mountain
+  tier: district
+  category: natural
+  lat: 34.7136
+  lon: -86.5346
+  cameraPreset: monte-sano
+  notes: Use as a bluff-edge cue above the city fabric.
+- id: botanical-garden
+  name: Huntsville Botanical Garden
+  tier: district
+  category: entertainment
+  lat: 34.7176
+  lon: -86.6602
+  cameraPreset: rocket-center
+  notes: Preserve green/open-land break near the western landmark cluster.
+- id: town-madison
+  name: Town Madison
+  tier: district
+  category: civic
+  lat: 34.6645
+  lon: -86.7496
+  cameraPreset: town-madison
+  notes: Tie the stadium, commercial blocks, and nearby road network together.

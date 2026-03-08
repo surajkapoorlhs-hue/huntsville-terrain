@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-03-08T04:35:04.223Z",
+  "overlays": {
+    "streams": {
+      "outputPath": "/Users/surajkapoor/AI projects/huntsville-diorama/public/generated/overlays/streams.geojson",
+      "count": 495
+    },
+    "parks": {
+      "outputPath": "/Users/surajkapoor/AI projects/huntsville-diorama/public/generated/overlays/parks.geojson",
+      "count": 78
+    },
+    "trails": {
+      "outputPath": "/Users/surajkapoor/AI projects/huntsville-diorama/public/generated/overlays/trails.geojson",
+      "count": 407
+    }
+  }
+}

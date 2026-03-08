@@ -1,0 +1,11 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.venv/
+.terrain-venv/
+data/raw/elevation/
+*.pyc
+__pycache__/
+.DS_Store
+npm-debug.log*

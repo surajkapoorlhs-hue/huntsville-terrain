@@ -1,0 +1,92 @@
+{
+  "generatedAt": "2026-03-08T04:37:27.025687Z",
+  "sourceType": "local-usgs-3dep-1m-derived",
+  "workingResolutionMeters": 4.2,
+  "tileTemplate": "/generated/terrain/tiles/{z}/{x}/{y}.png",
+  "contoursPath": "/generated/terrain/contours.geojson",
+  "encoding": "terrarium",
+  "minZoom": 8,
+  "maxZoom": 15,
+  "bbox": [
+    -86.72,
+    34.62,
+    -86.43,
+    34.83
+  ],
+  "tileCount": 899,
+  "products": [
+    {
+      "tileKey": "x52y384",
+      "title": "USGS 1 Meter 16 x52y384 AL_NorthAL_2019_B19",
+      "publicationDate": "2021-06-11",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_NorthAL_2019_B19/TIFF/USGS_1M_16_x52y384_AL_NorthAL_2019_B19.tif"
+    },
+    {
+      "tileKey": "x52y385",
+      "title": "USGS 1 Meter 16 x52y385 AL_NorthAL_2019_B19",
+      "publicationDate": "2021-06-11",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_NorthAL_2019_B19/TIFF/USGS_1M_16_x52y385_AL_NorthAL_2019_B19.tif"
+    },
+    {
+      "tileKey": "x52y386",
+      "title": "USGS 1 Meter 16 x52y386 AL_NorthAL_2019_B19",
+      "publicationDate": "2021-06-11",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_NorthAL_2019_B19/TIFF/USGS_1M_16_x52y386_AL_NorthAL_2019_B19.tif"
+    },
+    {
+      "tileKey": "x53y384",
+      "title": "USGS 1 Meter 16 x53y384 AL_NorthAL_2019_B19",
+      "publicationDate": "2021-06-11",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_NorthAL_2019_B19/TIFF/USGS_1M_16_x53y384_AL_NorthAL_2019_B19.tif"
+    },
+    {
+      "tileKey": "x53y385",
+      "title": "USGS 1 Meter 16 x53y385 AL_NorthAL_2019_B19",
+      "publicationDate": "2021-06-11",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_NorthAL_2019_B19/TIFF/USGS_1M_16_x53y385_AL_NorthAL_2019_B19.tif"
+    },
+    {
+      "tileKey": "x53y386",
+      "title": "USGS 1 Meter 16 x53y386 AL_NorthAL_2019_B19",
+      "publicationDate": "2021-06-11",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_NorthAL_2019_B19/TIFF/USGS_1M_16_x53y386_AL_NorthAL_2019_B19.tif"
+    },
+    {
+      "tileKey": "x54y384",
+      "title": "USGS 1 Meter 16 x54y384 AL_NorthAL_2019_B19",
+      "publicationDate": "2021-06-11",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_NorthAL_2019_B19/TIFF/USGS_1M_16_x54y384_AL_NorthAL_2019_B19.tif"
+    },
+    {
+      "tileKey": "x54y385",
+      "title": "USGS 1 Meter 16 x54y385 AL_NorthAL_2019_B19",
+      "publicationDate": "2021-06-11",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_NorthAL_2019_B19/TIFF/USGS_1M_16_x54y385_AL_NorthAL_2019_B19.tif"
+    },
+    {
+      "tileKey": "x54y386",
+      "title": "USGS 1 Meter 16 x54y386 AL_NorthAL_2019_B19",
+      "publicationDate": "2021-06-11",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_NorthAL_2019_B19/TIFF/USGS_1M_16_x54y386_AL_NorthAL_2019_B19.tif"
+    },
+    {
+      "tileKey": "x55y384",
+      "title": "USGS 1 Meter 16 x55y384 AL_17County_2020_B20",
+      "publicationDate": "2022-07-28",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_17County_2020_B20/TIFF/USGS_1M_16_x55y384_AL_17County_2020_B20.tif"
+    },
+    {
+      "tileKey": "x55y385",
+      "title": "USGS 1 Meter 16 x55y385 AL_17County_2020_B20",
+      "publicationDate": "2022-07-28",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_17County_2020_B20/TIFF/USGS_1M_16_x55y385_AL_17County_2020_B20.tif"
+    },
+    {
+      "tileKey": "x55y386",
+      "title": "USGS 1 Meter 16 x55y386 AL_17County_2020_B20",
+      "publicationDate": "2022-07-28",
+      "downloadURL": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1m/Projects/AL_17County_2020_B20/TIFF/USGS_1M_16_x55y386_AL_17County_2020_B20.tif"
+    }
+  ],
+  "clippedDemPath": "data/raw/elevation/usgs-1m/huntsville-core-4p2m.tif"
+}

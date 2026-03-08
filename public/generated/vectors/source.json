@@ -1,0 +1,8 @@
+{
+  "generatedAt": "2026-03-08T03:14:29.471Z",
+  "sourceType": "remote-open-raster-basemap",
+  "rasterTiles": [
+    "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+  ],
+  "note": "Raster basemap is currently sourced from OpenStreetMap tiles while a local vector pipeline is prepared."
+}
